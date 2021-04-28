@@ -1,5 +1,5 @@
 # IMDB classification with Deep Learning
- Classify IMDB reviews as positive/negative using One Hot Encoding, Word Embedding and Recurrent Neural Network wiWorth *Deep Learning with Python by Francois Chollet* Book.
+ Classify IMDB reviews as positive/negative using One Hot Encoding, Word Embedding and Recurrent Neural Network implemented with *Deep Learning with Python by Francois Chollet* Book.
  
 ## Techniques
 1. One Hot Encoding (Chapter 3 - Getting started wiht neural networks)
